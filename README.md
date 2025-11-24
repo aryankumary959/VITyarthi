@@ -102,11 +102,6 @@ Credits
 Developed by [ARYAN KUMAR YADAV].
 Inspired by Python CLI project tutorials and beginner-level coding guides.
 
-Support
-For questions or reporting issues, email support@example.com
-
-License
-Released under the MIT License. See LICENSE file for more details.
 **SCREENSHOTS**
 <img width="663" height="1014" alt="image" src="https://github.com/user-attachments/assets/52f64a67-b1f6-4d0f-aeaa-74e761e62915" />
 <img width="565" height="713" alt="image" src="https://github.com/user-attachments/assets/05bd7b79-c38c-4ba0-8b07-5047f9eac9b3" />
